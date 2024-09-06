@@ -2,7 +2,7 @@
 
 export TERM=xterm
 export DEBIAN_FRONTEND=noninteractive
-export cfip=${cfip:-'www.visa.com.tw'}  # 优选域名或优选ip
+export cfip=${cfip:-'https://cf.090227.xyz/'}  # 优选域名或优选ip
 export cfport=${cfport:-'443'}     # 优选域名或优选ip对应端口
 SCRIPT_PATH="/root/keep_00.sh"  # 脚本路径
 
